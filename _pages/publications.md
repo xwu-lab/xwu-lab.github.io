@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 ## 代表性论文（第一或通讯作者）
+
+## 2025
+- Kang L, Zhang Q, Qian F, Liang J, **Wu X\***
+  Benchmarking computational methods for detecting spatial domains and domain-specific spatially variable genes from spatial transcriptomics data
+  **Nucleic Acids Research** [FullText](https://doi.org/10.1093/nar/gkaf303) | [Code](https://zenodo.org/records/15114362)
+  
+- Zhang Q#, Kang L#, Yang H, Liu F, **Wu X\***
+  Supervised analysis of alternative polyadenylation from single-cell and spatial transcriptomics data with spvAPA
+  **Briefings in Bioinformatics** [FullText](https://doi.org/10.1093/bib/bbae720) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/39799000/) | [Code](https://github.com/BMILAB/spvAPA)
+  
 ## 2024
 
 - Wang X#, Lian Q#, Dong H, Xu S, Su Y, **Wu X\***
