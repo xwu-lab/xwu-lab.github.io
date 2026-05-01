@@ -7,13 +7,17 @@ author_profile: true
 
 ## 代表性论文（第一或通讯作者）
 ## 2026
+- Bi X, Chen Z, Ye M, Zhang T, He D, **Wu X\***
+  Benchmarking computational methods for identifying and quantifying polyadenylation sites from 3′ tag-based single-cell RNA-seq data
+  **Nucleic Acids Researchy (Accpeted)** [FullText]() | [PubMed]() | [Code](https://github.com/BMILAB/Benchmark_scAPA)
+  
 - Ye W, Cheng X, Bi X, **Wu X\***
   PolyAseqTrap: a universal tool for genome-wide identification and quantification of polyadenylation sites from different 3′ end sequencing data
-  **Genome Biology** [FullText](https://link.springer.com/article/10.1186/s13059-026-03963-w)| [PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC12947541/) | [Code](https://github.com/BMILAB/PolyAseqTrap)
+  **Genome Biology** [FullText](https://link.springer.com/article/10.1186/s13059-026-03963-w) | [PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC12947541/) | [Code](https://github.com/BMILAB/PolyAseqTrap)
   
 - Song J*, Momenzadeh M, Liu H, Shen C*, Meyer G*, **Wu X\***
   Full-DIA enables complete single-cell proteomics from diaPASEF using deep learning
-  **Briefings in Bioinformatics** [FullText](https://link.springer.com/article/10.1186/s13059-026-04087-x) | [Code](https://github.com/xomicsdatascience/full_dia/tree/main)
+  **Genome Biology** [FullText](https://link.springer.com/article/10.1186/s13059-026-04087-x) | [Code](https://github.com/xomicsdatascience/full_dia/tree/main)
 
 ## 2025
 - Kang L, Zhang Q, Qian F, Liang J, **Wu X\***
