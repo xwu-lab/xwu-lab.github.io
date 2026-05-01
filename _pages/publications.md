@@ -13,11 +13,11 @@ author_profile: true
   
 - Ye W, Cheng X, Bi X, **Wu X\***
   PolyAseqTrap: a universal tool for genome-wide identification and quantification of polyadenylation sites from different 3′ end sequencing data
-  **Genome Biology** [FullText](https://link.springer.com/article/10.1186/s13059-026-03963-w) | [PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC12947541/) | [Code](https://github.com/BMILAB/PolyAseqTrap)
+  **Genome Biology** [FullText](https://link.springer.com/article/10.1186/s13059-026-03963-w) | [PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC12947541/) | [Tool](https://github.com/BMILAB/PolyAseqTrap)
   
 - Song J*, Momenzadeh M, Liu H, Shen C*, Meyer G*, **Wu X\***
   Full-DIA enables complete single-cell proteomics from diaPASEF using deep learning
-  **Genome Biology** [FullText](https://link.springer.com/article/10.1186/s13059-026-04087-x) | [Code](https://github.com/xomicsdatascience/full_dia/tree/main)
+  **Genome Biology** [FullText](https://link.springer.com/article/10.1186/s13059-026-04087-x) | [Tool](https://github.com/xomicsdatascience/full_dia/tree/main)
 
 ## 2025
 - Kang L, Zhang Q, Qian F, Liang J, **Wu X\***
@@ -26,7 +26,7 @@ author_profile: true
   
 - Zhang Q#, Kang L#, Yang H, Liu F, **Wu X\***
   Supervised analysis of alternative polyadenylation from single-cell and spatial transcriptomics data with spvAPA
-  **Briefings in Bioinformatics** [FullText](https://doi.org/10.1093/bib/bbae720) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/39799000/) | [Code](https://github.com/BMILAB/spvAPA)
+  **Briefings in Bioinformatics** [FullText](https://doi.org/10.1093/bib/bbae720) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/39799000/) | [Tool](https://github.com/BMILAB/spvAPA)
   
 ## 2024
 
