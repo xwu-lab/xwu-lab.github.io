@@ -9,7 +9,7 @@ author_profile: true
 ## 2026
 - Bi X, Chen Z, Ye M, Zhang T, He D, **Wu X\***
   Benchmarking computational methods for identifying and quantifying polyadenylation sites from 3′ tag-based single-cell RNA-seq data
-  **Nucleic Acids Researchy (Accpeted)** [FullText]() | [PubMed]() | [Code](https://github.com/BMILAB/Benchmark_scAPA)
+  **Nucleic Acids Researchy (Accepted)** [FullText]() | [PubMed]() | [Code](https://github.com/BMILAB/Benchmark_scAPA)
   
 - Ye W, Cheng X, Bi X, **Wu X\***
   PolyAseqTrap: a universal tool for genome-wide identification and quantification of polyadenylation sites from different 3′ end sequencing data
