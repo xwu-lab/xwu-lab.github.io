@@ -22,7 +22,7 @@ author_profile: true
 ## 2025
 - Kang L, Zhang Q, Qian F, Liang J, **Wu X\***
   Benchmarking computational methods for detecting spatial domains and domain-specific spatially variable genes from spatial transcriptomics data
-  **Nucleic Acids Research** [FullText](https://doi.org/10.1093/nar/gkaf303) | [Code](https://zenodo.org/records/15114362)
+  **Nucleic Acids Research** [FullText](https://doi.org/10.1093/nar/gkaf303) | [PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC12000868/) | [Code](https://zenodo.org/records/15114362)
   
 - Zhang Q#, Kang L#, Yang H, Liu F, **Wu X\***
   Supervised analysis of alternative polyadenylation from single-cell and spatial transcriptomics data with spvAPA
