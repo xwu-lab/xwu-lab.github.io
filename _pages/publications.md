@@ -9,7 +9,7 @@ author_profile: true
 ## 2026
 - Bi X, Chen Z, Ye M, Zhang T, He D, **Wu X\***
   Benchmarking computational methods for identifying and quantifying polyadenylation sites from 3′ tag-based single-cell RNA-seq data
-  **Nucleic Acids Researchy (Accepted)** [FullText]() | [PubMed]() | [Code](https://github.com/BMILAB/Benchmark_scAPA)
+  **Nucleic Acids Research** [FullText](https://doi.org/10.1093/nar/gkag490) | [PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC13161560/) | [Code](https://github.com/BMILAB/Benchmark_scAPA)
   
 - Ye W, Cheng X, Bi X, **Wu X\***
   PolyAseqTrap: a universal tool for genome-wide identification and quantification of polyadenylation sites from different 3′ end sequencing data
@@ -18,7 +18,15 @@ author_profile: true
 - Song J\*, Momenzadeh M, Liu H, Shen C\*, Meyer G\*, **Wu X\***
   Full-DIA enables complete single-cell proteomics from diaPASEF using deep learning
   **Genome Biology** [FullText](https://link.springer.com/article/10.1186/s13059-026-04087-x) | [Tool](https://github.com/xomicsdatascience/full_dia/tree/main)
+  
+  - Qian F, Liang J, Ye M, Liu Z, **Wu X\***
+  System-wide identification and regulatory network analysis of m⁶A-APA associated genes in Arabidopsis Thaliana
+  **BMC Plant Biology** [FullText](https://doi.org/10.1186/s12870-026-09604-5) | [PubMed]() | [Code](https://github.com/BMILAB/m6A-APA-RWR)
 
+ - Liu F, Yang H, **Wu X\***
+  Single-Cell Gene Module Inference Reveals Alternative Polyadenylation Dynamics Associated with Autism
+  **International Journal of Molecular Sciences** [FullText](https://www.mdpi.com/1422-0067/27/6/2849) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/41898708/) | [Code](https://github.com/BMILAB/ASD-module)
+  
 ## 2025
 - Kang L, Zhang Q, Qian F, Liang J, **Wu X\***
   Benchmarking computational methods for detecting spatial domains and domain-specific spatially variable genes from spatial transcriptomics data
