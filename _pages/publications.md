@@ -19,11 +19,11 @@ author_profile: true
   Full-DIA enables complete single-cell proteomics from diaPASEF using deep learning
   **Genome Biology** [FullText](https://link.springer.com/article/10.1186/s13059-026-04087-x) | [Tool](https://github.com/xomicsdatascience/full_dia/tree/main)
   
-  - Qian F, Liang J, Ye M, Liu Z, **Wu X\***
+- Qian F, Liang J, Ye M, Liu Z, **Wu X\***
   System-wide identification and regulatory network analysis of m⁶A-APA associated genes in Arabidopsis Thaliana
   **BMC Plant Biology** [FullText](https://doi.org/10.1186/s12870-026-09604-5) | [PubMed]() | [Code](https://github.com/BMILAB/m6A-APA-RWR)
 
- - Liu F, Yang H, **Wu X\***
+- Liu F, Yang H, **Wu X\***
   Single-Cell Gene Module Inference Reveals Alternative Polyadenylation Dynamics Associated with Autism
   **International Journal of Molecular Sciences** [FullText](https://www.mdpi.com/1422-0067/27/6/2849) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/41898708/) | [Code](https://github.com/BMILAB/ASD-module)
   
